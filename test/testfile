@@ -1,2 +1,8 @@
 this is the first file for testing. 
 created on 23 March 2019.
+
+check folder in github: https://github.com/bjshijh/springcloudconfig/tree/master/test
+this is: https://github.com/ + username/ + repository_name/ + tree/ + branch_name/+ folder_path
+
+check file in github:   https://github.com/bjshijh/springcloudconfig/blob/master/test/testfile
+this is: https://github.com/ + username/ + repository_name/ + blob/ + branch_name/+ file_path
